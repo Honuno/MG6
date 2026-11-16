@@ -15,9 +15,9 @@ TagManager:
   - Water
   - UI
   - Rat
-  - 
-  - 
-  - 
+  - Platform
+  - Ground
+  - tilemap
   - 
   - 
   - 
@@ -49,3 +49,4 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+  m_MigratedRenderPipelines: []
